@@ -54,23 +54,7 @@
           <mxGeometry x="300" y="252" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--9" value="进入中断子程序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="29" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--27" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277" y="212" as="sourcePoint" />
-            <mxPoint x="380" y="275" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="202" />
-              <mxPoint x="290" y="202" />
-              <mxPoint x="290" y="276" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" connectable="0" parent="tBmZR0rVGKw5VwdrufA--27">
-          <mxGeometry x="-0.5517" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="320" y="149" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
