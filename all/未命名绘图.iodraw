@@ -22,10 +22,10 @@
         <mxCell id="tBmZR0rVGKw5VwdrufA--5" value="送入T1初值：P2.0=P2.1=1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="107" y="404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="tBmZR0rVGKw5VwdrufA--6" value="选择T1计时功能，在方式2下工作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="tBmZR0rVGKw5VwdrufA--7" value="开启全中断允许" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="322" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
