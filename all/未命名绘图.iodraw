@@ -74,15 +74,16 @@
         <mxCell id="tBmZR0rVGKw5VwdrufA--32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;返回主程序&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="536" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--39" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="tBmZR0rVGKw5VwdrufA--39" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269.48" y="396" as="sourcePoint" />
             <mxPoint x="379" y="397" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="270" y="302" />
               <mxPoint x="270" y="354" />
               <mxPoint x="325" y="354" />
-              <mxPoint x="325" y="398" />
-              <mxPoint x="379" y="398" />
+              <mxPoint x="325" y="399" />
+              <mxPoint x="379" y="399" />
             </Array>
           </mxGeometry>
         </mxCell>
