@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-16" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="80" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--1" target="tBmZR0rVGKw5VwdrufA--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -49,11 +46,16 @@
         <mxCell id="tBmZR0rVGKw5VwdrufA--7" value="开启全中断允许" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="293" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBmZR0rVGKw5VwdrufA--19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--8" value="R1=？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="302" y="150" width="160" height="100" as="geometry" />
+          <mxGeometry x="300" y="152" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--9" value="进入中断子程序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="469" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="326" y="38" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
