@@ -23,13 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--3" value="SCON:设置串行口在方式1下工作，允许串行接收数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="104" y="206" width="120" height="60" as="geometry" />
+          <mxGeometry x="102" y="209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--4" target="tBmZR0rVGKw5VwdrufA--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--4" value="PCON:设置SMOD=0" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="104" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBmZR0rVGKw5VwdrufA--16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--5" target="tBmZR0rVGKw5VwdrufA--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--5" value="送入T1初值：P2.0=P2.1=1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="104" y="442" width="120" height="60" as="geometry" />
