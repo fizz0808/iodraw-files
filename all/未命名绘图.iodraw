@@ -13,8 +13,8 @@
         <mxCell id="tBmZR0rVGKw5VwdrufA--13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--2" target="tBmZR0rVGKw5VwdrufA--3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--2" value="TMOD:选择T1计时功能，在方式2下工作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="61" y="115" width="202" height="60" as="geometry" />
+        <mxCell id="tBmZR0rVGKw5VwdrufA--2" value="R1清零" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="61" y="133" width="127" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--14" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--3" target="tBmZR0rVGKw5VwdrufA--4">
           <mxGeometry relative="1" as="geometry" />
