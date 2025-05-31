@@ -4,34 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="bmEKRKVG7Xc4yRYX8Xk_-1" target="bmEKRKVG7Xc4yRYX8Xk_-7" edge="1">
+        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="bmEKRKVG7Xc4yRYX8Xk_-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="210" as="targetPoint" />
+            <mxPoint x="360" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-1" value="&#xa;&lt;pre style=&quot;margin: 0px !important; font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; color: rgb(255, 255, 255); font-size: 12.573px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;点火保险机构&lt;/pre&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="bmEKRKVG7Xc4yRYX8Xk_-7" target="bmEKRKVG7Xc4yRYX8Xk_-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="bmEKRKVG7Xc4yRYX8Xk_-8" target="bmEKRKVG7Xc4yRYX8Xk_-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-8" value="&lt;br&gt;&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; font-size: 12.573px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt; 冷却器               喷水与燃气混合) &lt;/pre&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontColor=#FFFFFF;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-10" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;动力弯管             (输送混合气体)        &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-16" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; text-wrap-mode: wrap; word-break: break-all; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="80" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bmEKRKVG7Xc4yRYX8Xk_-17" value="&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; font-size: 12.573px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;燃气发生器&lt;/pre&gt;&lt;pre style=&quot;font-family: Menlo, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace, Inter, sans-serif; overflow: auto; padding: 9.144px 13.716px; white-space: pre-wrap; word-break: break-all; font-size: 12.573px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;(装药燃烧生成燃气)   &lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="170" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
