@@ -7,7 +7,7 @@
         <mxCell id="tBmZR0rVGKw5VwdrufA--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--1" target="tBmZR0rVGKw5VwdrufA--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--1" value="主程序开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="tBmZR0rVGKw5VwdrufA--1" value="中断子程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="97" y="18" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tBmZR0rVGKw5VwdrufA--13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="tBmZR0rVGKw5VwdrufA--2" target="tBmZR0rVGKw5VwdrufA--3">
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBmZR0rVGKw5VwdrufA--28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" connectable="0" parent="tBmZR0rVGKw5VwdrufA--27">
+        <mxCell id="tBmZR0rVGKw5VwdrufA--28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#007FFF;" vertex="1" connectable="0" parent="tBmZR0rVGKw5VwdrufA--27">
           <mxGeometry x="-0.5517" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
