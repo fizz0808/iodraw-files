@@ -13,8 +13,8 @@
         <mxCell id="zXw5QquSHOcUD2tBIAcw-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;振动传感器：监测涡轮泵、发动机本体振动频率与幅值&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;压力传感器：监测燃烧室、推进剂管路、贮箱压力&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;温度传感器：监测发动机舱、热防护系统、电气设备温度&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;应变传感器：监测箭体主结构、关键连接部位应力应变&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-3">
           <mxGeometry x="5" y="50" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zXw5QquSHOcUD2tBIAcw-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="590" width="290" height="200" as="geometry" />
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-6" value="数据层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="590" width="380" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
