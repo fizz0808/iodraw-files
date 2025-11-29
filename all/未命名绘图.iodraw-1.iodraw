@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1869" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -20,10 +20,10 @@
           <mxGeometry x="110" y="40" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zXw5QquSHOcUD2tBIAcw-10" value="算法/模型层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="740" width="310" height="200" as="geometry" />
+          <mxGeometry x="330" y="740" width="660" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zXw5QquSHOcUD2tBIAcw-11" value="&lt;div&gt;深度异常检测模型：基于一维卷积神经网络实时识别发动机、涡轮泵等关键部件异常状态，实现早期故障预警&lt;/div&gt;&lt;div&gt;集成寿命预测模型：结合梯度提升决策树与生存分析方法，预测发动机、电池等部件剩余使用寿命，支持预测性维护决策&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="990" width="660" height="40" as="geometry" />
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-11" value="&lt;div&gt;深度异常检测模型：基于一维卷积神经网络实时识别发动机、涡轮泵等关键部件异常状态，实现早期故障预警&lt;/div&gt;&lt;div&gt;集成寿命预测模型：结合梯度提升决策树与生存分析方法，预测发动机、电池等部件剩余使用寿命，支持预测性维护决策&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-10">
+          <mxGeometry y="90" width="660" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
