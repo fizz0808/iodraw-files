@@ -25,6 +25,9 @@
         <mxCell id="zXw5QquSHOcUD2tBIAcw-11" value="&lt;div&gt;深度异常检测模型：基于一维卷积神经网络实时识别发动机、涡轮泵等关键部件异常状态，&lt;/div&gt;&lt;div&gt;实现早期故障预警&lt;/div&gt;&lt;div&gt;集成寿命预测模型：结合梯度提升决策树与生存分析方法，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;预测发动机、电池等部件剩余使用寿命，支持预测性维护决策&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-10">
           <mxGeometry y="45" width="500" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-12" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="960" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
