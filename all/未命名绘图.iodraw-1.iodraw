@@ -19,8 +19,8 @@
         <mxCell id="zXw5QquSHOcUD2tBIAcw-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据层&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="630" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zXw5QquSHOcUD2tBIAcw-9" value="&lt;div&gt;实时传感器遥测数据&lt;/div&gt;&lt;div&gt;历史飞行任务数据&lt;/div&gt;&lt;div&gt;地面测试验证数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-6">
-          <mxGeometry x="110" y="40" width="130" height="60" as="geometry" />
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-9" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;实时传感器遥测数据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;历史飞行任务数据&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;地面测试验证数据&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-6">
+          <mxGeometry x="85" y="35" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zXw5QquSHOcUD2tBIAcw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zXw5QquSHOcUD2tBIAcw-10" target="zXw5QquSHOcUD2tBIAcw-12">
           <mxGeometry relative="1" as="geometry" />
