@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zXw5QquSHOcUD2tBIAcw-3" value="传感层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="385" width="330" height="200" as="geometry" />
+          <mxGeometry x="300" y="380" width="330" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zXw5QquSHOcUD2tBIAcw-4" value="&lt;div&gt;振动传感器：监测涡轮泵、发动机本体振动频率与幅值&lt;/div&gt;&lt;div&gt;压力传感器：监测燃烧室、推进剂管路、贮箱压力&lt;/div&gt;&lt;div&gt;温度传感器：监测发动机舱、热防护系统、电气设备温度&lt;/div&gt;&lt;div&gt;应变传感器：监测箭体主结构、关键连接部位应力应变&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-3">
           <mxGeometry y="55" width="320" height="70" as="geometry" />
