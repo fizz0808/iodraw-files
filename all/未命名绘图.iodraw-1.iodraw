@@ -19,6 +19,9 @@
         <mxCell id="zXw5QquSHOcUD2tBIAcw-9" value="&lt;div&gt;实时传感器遥测数据&lt;/div&gt;&lt;div&gt;历史飞行任务数据&lt;/div&gt;&lt;div&gt;地面测试验证数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-6">
           <mxGeometry x="110" y="40" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zXw5QquSHOcUD2tBIAcw-10" target="zXw5QquSHOcUD2tBIAcw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zXw5QquSHOcUD2tBIAcw-10" value="算法/模型层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="770" width="500" height="140" as="geometry" />
         </mxCell>
@@ -26,10 +29,10 @@
           <mxGeometry y="45" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zXw5QquSHOcUD2tBIAcw-12" value="应用层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="960" width="200" height="200" as="geometry" />
+          <mxGeometry x="270" y="940" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zXw5QquSHOcUD2tBIAcw-13" value="&lt;div&gt;实时健康监控与预警：飞行中各系统健康状态实时评估，&lt;/div&gt;&lt;div&gt;故障早期识别与分级告警&lt;/div&gt;&lt;div&gt;智能诊断与预测：故障根因自动分析，&lt;/div&gt;&lt;div&gt;关键部件剩余寿命准确预测&lt;/div&gt;&lt;div&gt;智能决策支持：发射前健康状态确认，&lt;/div&gt;&lt;div&gt;回收后快速损伤评估，维护方案优化建议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="1013" width="320" height="100" as="geometry" />
+        <mxCell id="zXw5QquSHOcUD2tBIAcw-13" value="&lt;div&gt;实时健康监控与预警：飞行中各系统健康状态实时评估，&lt;/div&gt;&lt;div&gt;故障早期识别与分级告警&lt;/div&gt;&lt;div&gt;智能诊断与预测：故障根因自动分析，&lt;/div&gt;&lt;div&gt;关键部件剩余寿命准确预测&lt;/div&gt;&lt;div&gt;智能决策支持：发射前健康状态确认，&lt;/div&gt;&lt;div&gt;回收后快速损伤评估，维护方案优化建议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zXw5QquSHOcUD2tBIAcw-12">
+          <mxGeometry y="60" width="320" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
